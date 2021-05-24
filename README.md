@@ -31,7 +31,7 @@ This ensures the app keeps running in the background at all times. Getting the a
 
 ### HOW TO INSTALL 
 
-- For the child or client app clone my repository [click here ](https://github.com/ranaaditya/Child)
+- For the child or client app clone my repository [click here ](https://github.com/anurag989/noone-child)
 
 
 - For parent or spyer side app clone my repository this repository
